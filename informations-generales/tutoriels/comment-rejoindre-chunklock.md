@@ -17,3 +17,5 @@ Si vous souhaitez rejoindre notre serveur, assurez-vous d'avoir une version Prem
 Si vous éprouvez des difficultés pour vous connecter, n'hésitez pas à ouvrir un ticket sur notre Discord pour obtenir de l'aide. \
 \
 ![:fleche\_mineberry:](https://cdn.discordapp.com/emojis/1021524412975026197.webp?size=96\&quality=lossless)[https://discord.gg/chunklock](https://discord.gg/tSzCjUqwuU)
+
+<figure><img src="../../.gitbook/assets/chunklock-spawn.png" alt=""><figcaption></figcaption></figure>

@@ -19,3 +19,5 @@ metaLinks:
 ![:fleche\_mineberry:](https://cdn.discordapp.com/emojis/1021524412975026197.webp?size=96\&quality=lossless) 4- Une fenêtre confirme que votre vote a été enregistré avec succès, et vos récompenses en jeu sont maintenant disponibles en effectuant la commande /claim. Votez pour notre serveur et obtenez des avantages ! Chaque site de vote possède sont propre temps d'attente, variant de 1h30 à 12h.
 
 Lien pour voter : [https://chunklock.com/fr/vote/](https://chunklock.com/fr/vote/)
+
+<figure><img src="../../.gitbook/assets/chunklock-spawn.png" alt=""><figcaption></figcaption></figure>
