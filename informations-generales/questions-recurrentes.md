@@ -2,8 +2,7 @@
 description: Retrouvez ici toutes les questions récurrentes et la réponse à celles ci
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/o/fOe7lmyX6PB5bE5kJgAC/s/ZW9MA8mldUR1LUTRDdwU/informations-generales/questions-recurrentes
+    - questions-recurrentes.md
 ---
 
 # ❔ Questions Récurrentes
@@ -180,11 +179,10 @@ En cas de mort, votre total d’ombres est réduit de moitié.
 
 ## <mark style="color:orange;">Autres Questions</mark>
 
-<mark style="color:yellow;">**"Comment puis-je augmenter ma puissance ?"**</mark>&#x20;
+<mark style="color:yellow;">**"Comment puis-je augmenter ma puissance ?"**</mark>
 
 * Augmentez votre puissance en augmentant vos niveaux de jobs, votre niveau de joueurs, le niveau de vos armes ou bien encore en utilisant vos pets/minions.
 
 <mark style="color:yellow;">**"Comment empêcher le renouvellement de mon abonnement premium?"**</mark>
 
-* Cliquez sur "manage subscription" dans le mail reçu lors de votre achat (nom du mail "MinePiece).&#x20;
-
+* Cliquez sur "manage subscription" dans le mail reçu lors de votre achat (nom du mail "MinePiece).

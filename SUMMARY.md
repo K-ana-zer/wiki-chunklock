@@ -8,13 +8,13 @@
 * [🧷 Règlement In-Game](informations-generales/reglement-in-game.md)
 * [🤚 Règlement Discord](informations-generales/reglement-discord.md)
 * [⁉️ Tutoriels](informations-generales/tutoriels/README.md)
-  * [➡️ Comment rejoindre ChunkLock ?](informations-generales/tutoriels/comment-rejoindre-chunklock)
-  * [📓 Comment voter pour ChunkLock ?](informations-generales/tutoriels/comment-voter-pour-chunklock)
-  * [📖 Commandes Utiles](informations-generales/tutoriels/retrouver-le-reglement.md)
+  * [➡️ Comment rejoindre ChunkLock ?](informations-generales/tutoriels/comment-rejoindre-chunklock.md)
+  * [📓 Comment voter pour ChunkLock ?](informations-generales/tutoriels/comment-voter-pour-chunklock.md)
+  * [📖 Commandes Utiles](informations-generales/tutoriels/commandes-utiles.md)
 * [❔ Questions Récurrentes](informations-generales/questions-recurrentes.md)
 
 ## 🎮 Gameplay
 
-* [Général]()
-* [Votre île]()
-* [Îles aventures]()
+* [🔒 Général](<README (1).md>)
+* [Votre île](<README (1).md>)
+* [Îles aventures](<README (1).md>)

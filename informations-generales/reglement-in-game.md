@@ -5,8 +5,7 @@ description: >-
   serveur.
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/o/fOe7lmyX6PB5bE5kJgAC/s/ZW9MA8mldUR1LUTRDdwU/informations-generales/reglement-in-game
+    - reglement-in-game.md
 ---
 
 # 🧷 Règlement In-Game
@@ -57,8 +56,6 @@ Pensez à régulièrement prendre en vidéo/photo votre inventaire/île/argent.
 * Conformément à l’article L221-28 du Code de la Consommation, vous reconnaissez et acceptez de renoncer à votre droit de rétractation dès la validation de votre commande, la prestation de service étant exécutée immédiatement.
 * Tout litige, contestation de paiement ou rétrofacturation (“chargeback”) entraînera automatiquement un bannissement définitif du ou des comptes concernés, sans possibilité de recours.
 
-
-
 ## <mark style="color:orange;">Partie II : Le Gameplay</mark>
 
 ### <mark style="color:orange;">Article A : Interactions entre joueurs</mark>
@@ -66,16 +63,16 @@ Pensez à régulièrement prendre en vidéo/photo votre inventaire/île/argent.
 * Les interactions entre les joueurs doivent être effectuées de manière respectueuse et bienveillante.
 * Il est interdit d'utiliser quelconques fonctionnalités du serveur (fruits du démon, pets, ...) afin de déranger les autres joueurs, d'anti-jeu ou de concurrence déloyale.
 * Les arnaques, les pillages, les vols, les griefs, les trahisons et toutes autres actions pouvant nuire à l'expérience de jeu des autres joueurs sont interdits.
-  * Il est inclus dans les arnaques : le fait de tromper un joueur dans une vente d'item quelconque.&#x20;
+  * Il est inclus dans les arnaques : le fait de tromper un joueur dans une vente d'item quelconque.
     * Par exemple, il est interdit de vendre deux clés au prix lambdas, et une milieu une beaucoup plus chère.
     * Il est interdit de faire monter intentionnellement le prix d'un item dans le but de tromper les autres joueurs en faisant de l'achat/revente entre deux personnes.
     * Et bien d'autres cas.\
       Si vous avez un doute, faites un ticket !
 * Il est interdit de rejoindre une île, ou de faire quelconque action de bug ou utilisation de logiciels interdits dans un but de copier les farms/pattern déjà présentes sur celle-ci.
 * Le commerce inter-serveur est interdit incluant tout échange d'items, d'argent, et autres...
-* Afin de respecter le bon déroulement des combats avec les boss, il est interdit de faire quelconques action limitant les actions des autres joueurs sur ce boss (se mettre à l'intérieur de la hitbox, l'éloigner pour que sa vie se reset...)&#x20;
+* Afin de respecter le bon déroulement des combats avec les boss, il est interdit de faire quelconques action limitant les actions des autres joueurs sur ce boss (se mettre à l'intérieur de la hitbox, l'éloigner pour que sa vie se reset...)
 
-#### **Action sur une île :**&#x20;
+#### **Action sur une île :**
 
 En cas de départ volontaire d’une île, il est obligatoire de prévenir le chef de celle-ci afin d’organiser la répartition des ressources si nécessaire. Assurez-vous également de placer vos objets personnels et de valeur dans des coffres sécurisés et privatifs.
 
@@ -98,7 +95,7 @@ Voici une liste non exhaustive des actions interdites sur le serveur :
 * Anti-Afk (circuit d'eau, Auto-Jump...)
 * La construction et l'utilisation de systèmes "chunk-loader" sur votre île est totalement interdite
 * Transactions réelles : tout échange d’argent réel contre des biens ou services en jeu.
-* Il est formellement interdit de commercialiser (achat/revente) un schematic/farm. Si vous partagez donc un schématic, vous êtes entièrement responsable de ce qu'il pourra se passer par la suite.&#x20;
+* Il est formellement interdit de commercialiser (achat/revente) un schematic/farm. Si vous partagez donc un schématic, vous êtes entièrement responsable de ce qu'il pourra se passer par la suite.
 * De même, il est interdit de vendre contre quelconque chose des logiciels ou autres choses n'étant pas de minepiece.
 * Le tp-kill est interdit.
 * Il est interdit de poser des homes dans les îles concurrentes sans l'accord des membres de l'île.
@@ -137,8 +134,6 @@ Une tolérance peut être accordée à **1 à 2 joueurs maximum**, de manière *
 
 Tout usage abusif, massif ou permettant d’obtenir un avantage économique ou technique sera considéré comme un contournement du règlement et entraînera des sanctions.
 
-
-
 * Il est cependant autorisé d'afk sur une ile en contrepartie d'argent.
 
 ***
@@ -147,7 +142,7 @@ Tout usage abusif, massif ou permettant d’obtenir un avantage économique ou t
 
 Il est strictement interdit d’utiliser une île tierce, y compris via l’usage de double comptes, dans le but de contourner les limites de sa propre île (nombre de hoppers, de joueurs, de farms, etc.).
 
-* **Cas particulier : seconde île via double compte :**&#x20;
+* **Cas particulier : seconde île via double compte :**
 
 Il est autorisé de créer une seconde île sur un double compte **uniquement** dans le but de créer un **/is warp** (builds, shops, décorations, événements, etc.).
 
@@ -164,8 +159,6 @@ En cas de non-respect, la modération se réserve le droit de supprimer intégra
 #### <mark style="color:$warning;">**Sanctions**</mark>
 
 Tout abus, contournement ou comportement allant à l’encontre de l’esprit de ces règles pourra entraîner une sanction adaptée à la gravité de la situation, même si celui-ci n’est pas explicitement listé ci-dessus.
-
-
 
 ### <mark style="color:orange;">Article D : Le pvp, les duels et MarineFord</mark>
 
@@ -223,7 +216,7 @@ Si un mod n'apparaît pas dans cette liste, demandez l'accord d'un Staff en tick
   * X-Ray / FreeCam
   * Schematica Printer & Easy Place & copy/paste
   * FlyMod
-  * AutoClick / AutoMine / AutoPêche / AutoJump / AutoSell / Macros / BindClick / Script / …&#x20;
+  * AutoClick / AutoMine / AutoPêche / AutoJump / AutoSell / Macros / BindClick / Script / …
   * AutoTools
 
 {% hint style="warning" %}
@@ -258,8 +251,6 @@ Si un mod ne respecte pas ces règles et qu’il est partagé entre plusieurs jo
 Nous nous réservons le droit d’autoriser ou de refuser **tout mod**, sans exception.
 
 En cas de doute quant à la conformité de votre mod avec ces règles, n’hésitez pas à créer un ticket sur notre Discord : 👉 **discord.gg/minepiece**
-
-
 
 ### <mark style="color:orange;">Article I : Les Doubles-Comptes</mark>
 
@@ -336,7 +327,7 @@ Voici une liste non exhaustive des messages inappropriés sur le serveur, qui po
 
 ***
 
-* Pour la publicité en jeu `/pub` (warps, shops, ventes, events, etc.), vous devez obligatoirement utiliser la commande adéquate en fonction du type de recherche.&#x20;
+* Pour la publicité en jeu `/pub` (warps, shops, ventes, events, etc.), vous devez obligatoirement utiliser la commande adéquate en fonction du type de recherche.
 * De même, si vous faites de la pub pour votre ile, merci de respecter le temps de 10 minutes par ile/warp.
 * Merci de ne pas utiliser différents types de `/pub` pour bypass la durée de cooldown.
 
@@ -345,8 +336,6 @@ Voici une liste non exhaustive des messages inappropriés sur le serveur, qui po
 * Si vous êtes témoin d'une infraction, n'hésitez pas à prendre un screen.
 * Le screen doit être complet, date, heure, contexte, etc...
 * Tout abus de signalements ou de preuves falsifiées entrainera des sanctions.
-
-
 
 En vous connectant sur nos plateformes, nous considérons que vous avez lu et accepté ledit règlement, même en cas de changement de celui-ci.
 

@@ -3,11 +3,11 @@ description: Retrouvez ici le sommaire du Wiki de ChunkLock
 metaLinks: {}
 ---
 
-# 🔒 Bienvenue sur ChunkLock !
+# 🔒 Général
 
-Bienvenue sur le <mark style="color:$primary;">**wiki officiel du serveur ChunkLock**</mark> ! Celui-ci vous sera utile tout au long de votre progression, et vous permettra une aventure sans accroc.
+Bienvenue sur le **wiki officiel du serveur ChunkLock** ! Celui-ci vous sera utile tout au long de votre progression, et vous permettra une aventure sans accroc.
 
-Vous y retrouverez <mark style="color:$primary;">**toutes les fonctionnalités du serveur**</mark>, ainsi que <mark style="color:$primary;">**les informations utiles**</mark> liées à ChunkLock.
+Vous y retrouverez **toutes les fonctionnalités du serveur**, ainsi que **les informations utiles** liées à ChunkLock.
 
 ## [<mark style="color:blue;">Informations Générales</mark>](/broken/pages/xBWGrfsg6jegN10lH6wq)
 
@@ -19,8 +19,8 @@ Vous y retrouverez <mark style="color:$primary;">**toutes les fonctionnalités d
   * [**Commandes de base**](informations-generales/tutoriels/commandes-de-base.md)
 * [<mark style="color:blue;">**Questions Récurrentes**</mark>](informations-generales/questions-recurrentes.md)
 
-## [<mark style="color:blue;">GamePlay</mark>](./)
+## [<mark style="color:blue;">GamePlay</mark>](<README (1).md>)
 
-* [<mark style="color:blue;">Général</mark>](./) \*
-* [<mark style="color:blue;">Votre île</mark>](./)
-* [<mark style="color:blue;">Îles aventures</mark>](./)
+* [<mark style="color:blue;">Général</mark>](<README (1).md>) \*
+* [<mark style="color:blue;">Votre île</mark>](<README (1).md>)
+* [<mark style="color:blue;">Îles aventures</mark>](<README (1).md>)

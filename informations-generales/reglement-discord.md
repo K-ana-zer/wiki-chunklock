@@ -2,8 +2,7 @@
 description: Retrouvez ici le règlement à respecter lorsque vous parlez sur le Discord
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/o/fOe7lmyX6PB5bE5kJgAC/s/ZW9MA8mldUR1LUTRDdwU/informations-generales/reglement-discord
+    - reglement-discord.md
 ---
 
 # 🤚 Règlement Discord
@@ -44,7 +43,7 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 
 * Vous devez évidemment discuter dans le respect avec les joueurs du serveur.
 * En ticket, toute insulte, provocation, moquerie ou fausse accusation pourra entrainer des sanctions allant jusqu'au bannissement permanent en jeu et sur Discord.
-* La politesse est de mise et particulièrement lors des dialogues avec des Staffs.&#x20;
+* La politesse est de mise et particulièrement lors des dialogues avec des Staffs.
 
 {% hint style="success" %}
 Dire "Bonjour" lors de l'ouverture d'un ticket nous rendra tout de suite plus à l'écoute :wink:
