@@ -11,60 +11,50 @@ metaLinks:
 Le règlement est susceptible de changer à tout moment sans préavis, nous vous invitons à le consulter régulièrement.
 {% endhint %}
 
-## <mark style="color:orange;">Partie I : Votre Profil</mark>
+## <mark style="color:blue;">Partie I : Votre Profil</mark>
 
-### <mark style="color:orange;">Article A : Les Images de Profil</mark>
+### <mark style="color:blue;">Article A : Contenu du profil</mark>
 
-* Votre image de profil ne doit pas faire référence à du contenu obscène ou à de la politique.
-* Les images de profil ne doivent pas être offensantes envers quelconque individu ou groupe d'individus.
-* Il est interdit d'afficher des photographies personnelles d'un joueur du serveur dans le but de s'en moquer.
+* Votre image de profil et/ou bannière ne doivent pas contenir de contenu obscène, de références politiques ou être offensantes envers une personne ou un groupe.
+* Votre pseudo ne doit pas faire référence à un personnage historique ou politique. Il est interdit d’inclure des informations personnelles ou privées d’un autre joueur dans votre pseudo.
+* Votre statut et votre description ne doivent pas contenir d’incitation à la haine ou de liens vers des arnaques.
+* Tout manque de respect envers une personne ou un groupe sera sanctionné.
 
-### <mark style="color:orange;">Article B : Les Pseudos</mark>
+## <mark style="color:blue;">Partie II : Les salons textuels</mark>
 
-* Votre pseudo ne doit pas faire référence à un personnage historique ou politique.
-* Les pseudos doivent débuter par un caractère disponible sur le clavier AZERTY afin d'être mentionable.
-* Afficher les informations personnelles et privées d'un joueur dans votre pseudo est interdit.
+### <mark style="color:blue;">Article A : Pollution</mark>
 
-### <mark style="color:orange;">Article C : Les Statuts & Descriptions</mark>
+* Que ce soit en jeu ou sur Discord, le spam et le flood sont interdits.
+* Il est interdit de poster des liens autres que ceux du site de ChunkLock et de ces sites de votes, de l’IP du serveur ou de ses réseaux sociaux officiels.
+* La mention abusive d’un rôle ou d’un membre est également strictement interdite, même en ticket.
 
-* Votre statut et votre description ne doivent pas faire référence à de la politique ou inciter à la haine.
-* Les liens menant vers des arnaques sont interdits dans vos descriptions.
-* Tout manque de respect envers une quelconque personne sera sanctionné.
+### <mark style="color:blue;">Article B : Conduite à tenir</mark>
 
-## <mark style="color:orange;">Partie II : Les Salons Textuels</mark>
+* Vous devez toujours discuter dans le respect avec les autres joueurs.
+* Dans les tickets, insultes, provocations, moqueries, mensonges ou fausses accusations peuvent entraîner des sanctions allant jusqu’au bannissement permanent, en jeu comme sur Discord.
+* La politesse, le respect et la rigueur sont obligatoires, surtout lors des échanges avec le staff.
 
-### <mark style="color:orange;">Article A : Pollution</mark>
-
-* Tout comme en jeu, le Spam et le Flood sont proscrits.
-* Il est interdit de poster des liens autres que le site de SeasonSky, l'IP du serveur ou les réseaux-sociaux du serveur.
-* Mentionner abusivement un rôle/membre est strictement interdit.
-
-### <mark style="color:orange;">Article B : Conduite à tenir</mark>
-
-* Vous devez évidemment discuter dans le respect avec les joueurs du serveur.
-* En ticket, toute insulte, provocation, moquerie ou fausse accusation pourra entrainer des sanctions allant jusqu'au bannissement permanent en jeu et sur Discord.
-* La politesse est de mise et particulièrement lors des dialogues avec des Staffs.
-
-{% hint style="success" %}
-Dire "Bonjour" lors de l'ouverture d'un ticket nous rendra tout de suite plus à l'écoute :wink:
+{% hint style="info" %}
+Un simple "Bonjour" en ouvrant un ticket nous rendra immédiatement plus à l’écoute. **😉**
 {% endhint %}
 
-### <mark style="color:orange;">Article C : Sujets</mark>
+### <mark style="color:blue;">Article C : Sujets</mark>
 
-* Tout comme votre profil, vos discussions ne doivent pas faire références à de la politique.
-* Vous ne devez pas manquer de respect/insulter un joueur.
-* Le racisme, l'homophobie, la xénophobie et toutes les autres formes de haines sont proscrits.
+* Tout comme votre profil, vos messages ne doivent contenir aucun propos interdit cités précédemment.
+* Il est interdit de manquer de respect ou d’insulter un joueur.
+* Le racisme, l’homophobie, le sexisme et toutes autres formes de discours haineux sont strictement interdits.
 
-## <mark style="color:orange;">Partie III : Les Salons Vocaux</mark>
+## <mark style="color:blue;">Partie III : Les salons vocaux</mark>
 
-### <mark style="color:orange;">Article A : Conduite à tenir</mark>
+### <mark style="color:blue;">Article A : Conduite à tenir</mark>
 
-* Comme à l'écrit, vous devez rester respectueux avec les autres joueurs.
-* Les sujets de discussion sont libres mais nous vous demandons de prendre en considération l'âge des personnes présentes dans votre salon vocal.
-* Si vous souhaitez parler en privé, des salons limités sont disponibles.
+* Comme à l’écrit, vous devez rester respectueux envers les autres joueurs.
+* Les sujets de discussion sont libres, mais tenez compte de l’âge des participants dans votre salon vocal.
+* Pour des échanges privés, des salons limités sont disponibles.
 
-### <mark style="color:orange;">Article B : Interdictions</mark>
+### <mark style="color:blue;">Article B : Interdictions</mark>
 
-* Les SoundBoards (Bruitages, musiques...) sont interdits.
-* Crier dans votre micro dans le but d'agacer vos partenaires de vocal est interdit.
-* Divulguer des informations personnelles en vocal est interdit.
+* Les SoundBoards (bruitages, musiques, etc.) sont interdits.
+* Il est interdit de crier dans le micro pour déranger ou agacer les autres joueurs.
+* La divulgation d’informations personnelles en vocal est également interdite.
+* Il est interdit d'enregistrer une conversation privée afin de la rendre publique sans le consentement de tous les joueurs présents en vocal.

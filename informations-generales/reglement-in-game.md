@@ -8,338 +8,261 @@ metaLinks:
     - reglement-in-game.md
 ---
 
-# 🧷 Règlement In-Game
+# 🧷 Règlement en jeu
 
 {% hint style="danger" %}
 Le règlement est susceptible de changer à tout moment sans préavis, nous vous invitons à le consulter régulièrement.
 {% endhint %}
 
-## <mark style="color:orange;">Partie I : Les Joueurs</mark>
+## Partie I : Les joueurs
 
-### <mark style="color:orange;">Article A : Responsabilités</mark>
+### Article A : Responsabilités
 
-* Vous êtes entièrement **responsable de votre compte** Minecraft, ainsi que de votre mot de passe. Il est interdit de donner ou de prêter son compte ainsi que son mot de passe à une personne tierce. Nous ne prenons en aucun cas une part de responsabilité si une personne autre que vous se connecte dessus. Si une règle n’est pas respectée par votre compte même si ce n’est pas vous dessus, une **sanction adéquate sera mise en place**.
-* Les pseudonymes (racistes, insultants, politiques, homophobes...) et skins inappropriés (politiques, nudités…) ne sont pas acceptés. De même pour vos items ou familiers renommés.
-* Votre nick (surnom disponible avec un grade) doit également respecter ces règles. De plus, il est interdit d'utiliser votre surnom afin de faire de la pub pour votre chaine youtube, de stream ou à but d'usurper l'identité d'un autre joueur, un membre du staff ou une personne connue.
-* Nous ne prenons pas en charge les transferts de compte.
-* **Le contournement de mute ou de bannissement est strictement interdite.**
-  * Il est de votre responsabilité de respecter notre règlement et d’accepter les sanctions qui vous sont attribuées.\
-    Si vous êtes surpris en train d’éviter une sanction par l’un des moyens suivants, la durée de votre mute/bannissement sera doublée :
-    * Double compte / autre joueurs
-    * Livres/Pancarte/Item dans le /ah
-    * Renommer des objets dans l'hôtel des ventes
-    * Tout autre moyen non listé (à l’appréciation du staff)
+* Vous êtes seul responsable de votre compte Minecraft et de votre mot de passe.\
+  Il est strictement interdit de partager ou prêter votre compte ou votre mot de passe à une autre personne.\
+  Nous ne pourrons être tenus responsables si quelqu’un d’autre accède à votre compte.\
+  Si une règle est enfreinte depuis votre compte, même si ce n’est pas vous qui jouez, une sanction appropriée sera appliquée.
+* Les pseudonymes (racistes, insultants, politiques, homophobes, etc.) et les skins inappropriés (à caractère politique, vulgaire ou sexuellement explicite) sont interdits.\
+  Ces règles s’appliquent également aux objets renommés, ouvriers et familiers.
+* Votre /nick (accessible via un grade) doit aussi respecter ces règles.\
+  Il est interdit d’utiliser un surnom pour :
+  * Faire de la publicité (YouTube, stream, etc.),
+  * Usurper l’identité d’un autre joueur, d’un membre du staff ou d’une personne connue.
+* Aucun transfert de compte ne sera pris en charge.
+* Le contournement d’une quelconque sanction est formellement interdit.
+* Vous devez respecter le règlement et accepter les sanctions qui vous sont appliquées.\
+  Si vous tentez de contourner une sanction, sa durée sera doublée dans les cas suivants :
+  * Double compte / utilisation d’un autre joueur,
+  * VPN / proxy pour masquer votre identité,
+  * Utilisation de livres, pancartes, familiers,
+  * Renommage d’objets dans l’hôtel des ventes,
+  * Tout autre procédé similaire (à l’appréciation du staff).
 
-### <mark style="color:orange;">Article B : Le Discord</mark>
+### Article B : Discord
 
-* MinePiece a pour moyen de communication principal son serveur Discord. L’accès y est donc fortement recommandé pour avoir les informations des mises à jour ou autres informations importantes.
-* Pour tout problème, toute question, toute suggestion ou rapport de bugs, nous vous invitons à vous rendre sur cette plateforme.
-* Des moyens de support, à la fois vocaux et écrits, sont disponibles sur le serveur Discord.
-* **Le règlement en jeu s’applique également sur le serveur Discord que ce soit en discussion ou en vocal.**
+* Le serveur Discord est le principal moyen de communication de ChunkLock. Son accès est fortement recommandé pour rester informé des mises à jour et des annonces importantes.
+* Pour toute question, suggestion, problème ou rapport de bug, rendez-vous sur cette plateforme.\
+  Des supports écrits et vocaux y sont disponibles.
+* Le règlement du jeu s’applique aussi sur le serveur Discord, que ce soit en discussion ou en vocal.
 
-### <mark style="color:orange;">Article C : Les Remboursements</mark>
+### Article C : Remboursements
 
-* Les demandes de remboursement se font par tickets sur le serveur Discord.
-* Nous ne remboursons pas les pertes liées aux items non reçus par manque de place dans l’inventaire, cela est aussi valable pour les clés de vote ainsi que pour vos achats.
-* Seules les pertes liées à un problème serveur sont remboursées.
-* Les pertes dues à une erreur d’inattention seront refusées (pertes dues au clearlag, jeter un item dans la lave, etc.).
-* Un bannissement temporaire ou définitif vous privera de tous vos avantages jusqu'à la fin (s'il y en a une) de la sanction. Aucun transfert ne sera possible durant la durée d'une sanction et tous vos "biens" en jeu sont gelés.
-* Si vous n'avez pas les preuves suffisantes, votre demande de remboursement peut être refusée.
+* Les demandes de remboursement doivent se faire uniquement via un ticket sur le serveur Discord.
+* Aucun remboursement ne sera effectué pour les items non reçus faute de place dans l’inventaire, y compris les clés de vote ou achats.\
+  Seules les pertes causées par un bug ou un problème serveur peuvent être remboursées.
+* Les erreurs d’inattention ne sont pas remboursées :\
+  Clearlag, mauvaise utilisation du /trash ou du /boutique, mauvaise manipulation d’un bâton de vente, commande /ah sell incorrecte, item jeté dans la lave, etc.
+* Un bannissement temporaire ou définitif entraîne la perte de tous vos avantages pendant la durée de la sanction. Aucun transfert ni accès à vos biens ne sera possible.
+* En l’absence de preuves suffisantes (capture d’écran ou clip), votre demande pourra être refusée à l’appréciation du staff.
+* Tout mensonge ou tentative de tromper le staff est strictement interdit.
 
-{% hint style="info" %}
-Pensez à régulièrement prendre en vidéo/photo votre inventaire/île/argent.
-{% endhint %}
+Pensez à prendre régulièrement des preuves de votre inventaire, chunks, argent, etc.
 
-### <mark style="color:orange;">Article D : La boutique</mark>
+## Partie II : Le gameplay
 
-* Tous les achats effectués sur la boutique sont considérés comme définitifs et ne peuvent donner lieu à aucun remboursement, sauf exception prévue expressément dans nos Conditions Générales de Vente (CGV)
-* Conformément à l’article L221-28 du Code de la Consommation, vous reconnaissez et acceptez de renoncer à votre droit de rétractation dès la validation de votre commande, la prestation de service étant exécutée immédiatement.
-* Tout litige, contestation de paiement ou rétrofacturation (“chargeback”) entraînera automatiquement un bannissement définitif du ou des comptes concernés, sans possibilité de recours.
+### Article A : Interactions entre joueurs
 
-## <mark style="color:orange;">Partie II : Le Gameplay</mark>
+* Les interactions entre joueurs doivent toujours rester respectueuses et bienveillantes.
+* Les arnaques, vols, griefs, trahisons et toute action nuisant à l’expérience de jeu des autres sont interdits.
+* Est considérée comme arnaque toute tromperie dans une vente, par exemple vendre deux clés à prix normal et une troisième, au milieu, beaucoup plus chère.
+* Il est également interdit de faire artificiellement monter le prix moyen d’un item à l’hôtel des ventes ou ailleurs, notamment via des achats/reventes entre joueurs complices.
+* En cas de doute, ouvrez un ticket sur le Discord.
+* Il est interdit de rejoindre un Chunky ou d’utiliser un bug ou un logiciel (FreeCam, LiteMatica, etc.) dans le but de copier des farms, des machines à redstone, ou des patterns déjà existants.
+* Le commerce inter-serveur est strictement interdit, qu’il s’agisse d’échanges d’items, d’argent ou de tout autre bien.
+* Pour garantir le bon déroulement du farm dans les mondes aventures et lors des boss, toute action limitant les autres joueurs est interdite (pouvoirs de mobs gênants, position dans la hitbox, présence physique des familiers, etc.).
 
-### <mark style="color:orange;">Article A : Interactions entre joueurs</mark>
+**Actions sur un Chunky**
 
-* Les interactions entre les joueurs doivent être effectuées de manière respectueuse et bienveillante.
-* Il est interdit d'utiliser quelconques fonctionnalités du serveur (fruits du démon, pets, ...) afin de déranger les autres joueurs, d'anti-jeu ou de concurrence déloyale.
-* Les arnaques, les pillages, les vols, les griefs, les trahisons et toutes autres actions pouvant nuire à l'expérience de jeu des autres joueurs sont interdits.
-  * Il est inclus dans les arnaques : le fait de tromper un joueur dans une vente d'item quelconque.
-    * Par exemple, il est interdit de vendre deux clés au prix lambdas, et une milieu une beaucoup plus chère.
-    * Il est interdit de faire monter intentionnellement le prix d'un item dans le but de tromper les autres joueurs en faisant de l'achat/revente entre deux personnes.
-    * Et bien d'autres cas.\
-      Si vous avez un doute, faites un ticket !
-* Il est interdit de rejoindre une île, ou de faire quelconque action de bug ou utilisation de logiciels interdits dans un but de copier les farms/pattern déjà présentes sur celle-ci.
-* Le commerce inter-serveur est interdit incluant tout échange d'items, d'argent, et autres...
-* Afin de respecter le bon déroulement des combats avec les boss, il est interdit de faire quelconques action limitant les actions des autres joueurs sur ce boss (se mettre à l'intérieur de la hitbox, l'éloigner pour que sa vie se reset...)
+* En cas de départ volontaire d’un Chunky, vous devez prévenir le chef afin d’organiser, si besoin, la répartition des ressources et de l'argent présente dans la banque commune. Pensez aussi à ranger vos objets personnels et de valeur dans des coffres sécurisés et privés : enderchest ou coffre à votre pseudo sur une pancarte.
+* Si un joueur est banni de son Chunky, le chef doit lui restituer ses effets personnels immédiatement après le bannissement.
+* Toute copie de farms ou de constructions présentes sur le Chunky est interdite sans l’accord explicite du chef, même si vous le quittez. Attention, cela ne s'applique pas pour les builds issus d'internet.
+* En cas de preuve suffisante, et selon la situation, le joueur fautif sera sanctionné et la victime remboursée.
 
-#### **Action sur une île :**
-
-En cas de départ volontaire d’une île, il est obligatoire de prévenir le chef de celle-ci afin d’organiser la répartition des ressources si nécessaire. Assurez-vous également de placer vos objets personnels et de valeur dans des coffres sécurisés et privatifs.
-
-{% hint style="warning" %}
-En cas de départ d'un chef d'île pendant plus de 60 jours, les autres membres peuvent faire un ticket afin de récupérer le lead de l'île.
-{% endhint %}
-
-Si un joueur est banni de son île par le chef, ce dernier a l’obligation de lui restituer ses effets personnels immédiatement après le bannissement.
-
-Toute copies de farms/constructions présentes sur l’île est strictement interdite sans l’accord explicite du chef de l’île, et ce même si vous prévoyez de quitter l’île.
+### Article B : Actions interdites
 
 {% hint style="info" %}
-Si les preuves sont suffisantes et en fonction de la situation, le joueur fautif sera sanctionné et la victime remboursée.
+Le staff est susceptible d'effectuer des vérifications régulières au cours de votre jeu.&#x20;
 {% endhint %}
 
-### <mark style="color:orange;">Article B : Actions interdites</mark>
+Les actions ci-dessous sont interdites sur le serveur :
 
-Voici une liste non exhaustive des actions interdites sur le serveur :
-
-* Anti-Afk (circuit d'eau, Auto-Jump...)
-* La construction et l'utilisation de systèmes "chunk-loader" sur votre île est totalement interdite
+* Anti-AFK et systèmes automatisés (circuits d’eau, pistons, Auto Jump, macros de déplacement, Bind Click, changement de l'emplacement d'une touche, etc.).
 * Transactions réelles : tout échange d’argent réel contre des biens ou services en jeu.
-* Il est formellement interdit de commercialiser (achat/revente) un schematic/farm. Si vous partagez donc un schématic, vous êtes entièrement responsable de ce qu'il pourra se passer par la suite.
-* De même, il est interdit de vendre contre quelconque chose des logiciels ou autres choses n'étant pas de minepiece.
-* Le tp-kill est interdit.
-* Il est interdit de poser des homes dans les îles concurrentes sans l'accord des membres de l'île.
-* La construction obscène, raciste et discriminante.
-* Il est interdit de créer des jeux de hasard/casino.
-* Tout commerce de prime/points de classement est formellement interdit. Cela inclut l’utilisation abusive d’un compte tiers permettant d’augmenter sa prime/ses points de classement.
-* La vente d’items renommés dans le but de tromper ou de faire de la pub, de fausses clés, d’items sans durabilité, de shulkers contenant des items interdits à la vente, ou encore de contrats expirés est interdite.
-* Il est interdit de mettre en vente des têtes du /hdb accessible via le /premium
-* Il est interdit d'utiliser son fruit du démon sur d'autres joueurs en zone aventure ou dans les warps publiques
-* Les farms à wither sont interdites.
-* Le poser/casser est interdit; exception : blocs de neige et amélioration de la pelle évolutive.
-* Vous devez progresser dans votre métier et votre pass de manière classique, il est donc interdit d’exploiter un bug pour augmenter votre métier et pass.
+* Poser des homes dans un Chunky concurrent sans l’accord des membres.
+* Constructions obscènes, racistes ou discriminatoires.
+* Il est interdit de renommer les mobs afin que ceux-ci ne despawn pas.
 
-{% hint style="warning" %}
-Cette liste n'est pas exhaustive.
-{% endhint %}
 
-### <mark style="color:orange;">Article C : Les Alliances d'îles</mark>
 
-Toute forme d’alliance entre îles est strictement interdite dès lors qu’elle a pour objectif ou pour effet d’obtenir un avantage dans les classements.
+* Les jeux de hasard ou casinos sont strictement interdits, quelle qu’en soit la forme, même sans but lucratif.
+* Les évents non payants sont autorisés et peuvent être encadrés par le staff.
+  * En cas de doute, ou demande spéciale, vous pouvez faire un ticket.
 
-Cela inclut notamment, sans s’y limiter :
+Cela inclut notamment :
 
-* le partage régulier ou organisé de farms ;
-* le partage de berrys, d’argent ou de ressources en grande quantité ;
-* l’utilisation des infrastructures d’une autre île afin d’optimiser sa propre production ;
-* toute organisation permettant d’éviter la construction normale de farms sur son île.
+* Les machines à sous, roues de la chance, systèmes de paris ou tout autre mécanisme basé sur la chance,
+* Les échanges aléatoires d’items, d’argent ou de récompenses entre joueurs,
+* Les événements ou mini-jeux reposant sur un tirage au sort ou un gain non garanti.
 
-***
 
-#### <mark style="color:$warning;">**Farm et utilisation d’îles tierces**</mark>
 
-Chaque île est tenue de farmer exclusivement sur sa propre île. Le farm régulier ou organisé sur l’île d’un autre joueur est strictement interdit, qu’il s’agisse ou non d’une alliance déclarée.
 
-Une tolérance peut être accordée à **1 à 2 joueurs maximum**, de manière **ponctuelle**, sous la responsabilité du chef d’île, à condition que cela ne remplace pas la construction normale de farms sur l’île concernée.
 
-Tout usage abusif, massif ou permettant d’obtenir un avantage économique ou technique sera considéré comme un contournement du règlement et entraînera des sanctions.
+* Vente trompeuse d’items : objets renommés pour tromper, fausses clés, items sans durabilité et non réparables, shulkers contenant des items interdits, objets inutilisables ou portails, parchemins expirés, fioles d’expérience, objets temporairement buggés, etc.
+* Poser/casser des blocs ou cultures dans le but de valider artificiellement des quêtes ou parchemins.
+* Vous devez progresser légitimement dans vos métiers, parchemins et pass, selon les mécanismes prévus par le serveur. Exploiter un bug ou une faille est interdit et entraînera des sanctions.
 
-* Il est cependant autorisé d'afk sur une ile en contrepartie d'argent.
+Cette liste n'est pas exhaustive et peut être modifiée à tout moment.
 
-***
+### Article C : Modifications interdites du jeu
 
-#### <mark style="color:$warning;">**Contournement des limites**</mark>
+Tous les clients et mods donnant un avantage déloyal sur les autres joueurs sont interdits, notamment :
 
-Il est strictement interdit d’utiliser une île tierce, y compris via l’usage de double comptes, dans le but de contourner les limites de sa propre île (nombre de hoppers, de joueurs, de farms, etc.).
+* Auto-Click, Auto-Mine, Auto-Farm, Auto-Pêche, Auto-Sell, Auto-Tools.
+* X-Ray et tout mod permettant de voir à travers les blocs.
+* FreeCam, FlyMod, NoClip ou tout mode de vol / passage à travers les blocs.
+* Schematica Printer, Easy Place, Copy/Paste ou tout outil de duplication automatique.
+* Macros, BindClick, Changement de l'emplacement de la touche de click ,Scripts ou toute automatisation de commandes / actions.
+* KillAura, Aura Mod, Combat Assist, Reach Extender (avantage en combat).
+* SpeedHack, StepHack, Spider / WallClimb, ou tout moyen de se déplacer plus vite ou différemment que prévu.
+* Auto-Place / Auto-Build / Builder Mods permettant de construire sans action manuelle.
+* Item Dupe / Exploit Mods qui copient ou dupliquent des objets.
+* Inventory / Chest Viewer / Finder Mods donnant des informations invisibles normalement.
+* Tous autres clients ou mods donnant un quelconque avantage.
 
-* **Cas particulier : seconde île via double compte :**
+Cette liste n’est pas exhaustive. En cas de doute sur l’utilisation d’un client ou mod, ouvrez un ticket sur le Discord.\
+Toute utilisation non autorisée peut entraîner des sanctions lourdes immédiates.
 
-Il est autorisé de créer une seconde île sur un double compte **uniquement** dans le but de créer un **/is warp** (builds, shops, décorations, événements, etc.).
+### Article D : Modifications autorisées du jeu
 
-Sont strictement interdits sur cette seconde île :
+Les clients autorisés sur le serveur sont :\
+Badlion, Lunar Client, Labymod, Feather Client, Modrinth, Curseforge (sous certaines conditions).
 
-* tout type de stockage ;
-* toute farm ou machine de production ;
-* toute utilisation permettant d’avantager directement ou indirectement l’île principale.
+Les mods tolérés incluent notamment :
 
-En cas de non-respect, la modération se réserve le droit de supprimer intégralement la seconde île, sans compensation.
+* Optifine, Iris, Sodium.
+* Fullbright, Gamma.
+* Minimap (uniquement celles qui ne révèlent pas les chunks non visités).
+* ReplayMod (uniquement pour créer des vidéos).
+* Schematica (sans le mode Printer) / Litematica (sans le mode Easy Place).
+* Toggle Sprint / Toggle Sneak.
 
-***
+Si un mod ou client n’apparaît pas dans cette liste, demandez l’autorisation d’un membre du staff.\
+Sans autorisation, toute utilisation non autorisée peut entraîner des sanctions lourdes et immédiates.
 
-#### <mark style="color:$warning;">**Sanctions**</mark>
+### Article E : Doubles comptes
 
-Tout abus, contournement ou comportement allant à l’encontre de l’esprit de ces règles pourra entraîner une sanction adaptée à la gravité de la situation, même si celui-ci n’est pas explicitement listé ci-dessus.
+* Chaque utilisateur est limité à son compte principal et 1 double compte supplémentaire. Ainsi, vous avez le droit à 2 comptes par personne.&#x20;
+* Les double comptes ne sont pas autorisés dans les classements, les événements, ni pour les votes. Il est interdit de récupérer des récompenses (pass, récompenses d’événements, playtime, vote party, jobs, chunks, etc.) ou de farmer via un double compte.
+* Un double compte ne peut être utilisé que pour AFK. Il est interdit de booster son compte principal (items, argent, etc.) avec celui-ci.
+* Jouer sur un double compte alors que le compte principal est banni, ou l’inverse, est strictement interdit. Le non-respect de cette règle entraîne un doublement de la sanction initiale, voire davantage en cas de récidive.
+* En résumé, il est interdit d’utiliser un double compte pour toute raison autre que l’AFK.
 
-### <mark style="color:orange;">Article D : Le pvp, les duels et MarineFord</mark>
+Si vous prévoyez d’utiliser votre double compte pour commencer une nouvelle aventure, merci de nous en informer via un ticket sur Discord, afin que votre compte principal soit mis en pause/banni.\
+De même, si plusieurs personnes partagent la même adresse IP, prévenez le staff via un ticket Discord.
 
-* Interdiction de faire équipe avec d'autres joueurs ou d'autres iles.
-* La triche est évidemment interdite, cf actions interdites.
-* Il est interdit de camper dans un coin de la map, ou dans des AP non pris.
-* La déconnexion et les téléportations en zone de combat sont interdites.
-* Interdiction de mentir sur son stuff pour un /duel
-* Interdiction d'utiliser tous moyens pour fuir un combat.
-* Les usebugs sont interdits et le staff se réserve le droit de choisir la durée de la sanction appropriée en fonction du usebug.
-* Le retour en zone sécurisée pendant un combat est sanctionné.
-* Interdiction d'utiliser quelconques commandes de téléportation (/back, /tpa, /tpahere...) pour aller ou retourner sur un lieu de combat
-* Il est interdit d'utiliser son fruit du démon hors zone pvp, pour tuer d'autres joueurs.
+### Article F : Utilisation de la redstone
 
-### <mark style="color:orange;">Article E : Utilisation de la Redstone</mark>
+* Les usines/clocks trop rapides (0 ticks, ...) ou les systèmes trop lourds ou mal optimisés sont interdits. Les staffs pourront passer et mettre une pancarte si cela fait bugger le serveur, voire casser une partie de la farm.
+* Toutes les machines à redstone doivent obligatoirement posséder un système ON/OFF ou rester totalement inactives lorsqu’elles ne sont pas utilisées.
+* Les machines volantes ainsi que toute machine causant du lag, volontairement ou non, sont interdites.
+* Il est interdit de farmer de manière AFK depuis ou avec un véhicule (wagon, bateau, cochon avec bâton à la carotte, etc.).
+* Les trieurs d’items sans système de destruction automatique (comme un passage dans la lave) sont interdits.
+* De même, les farms sans système de destruction (lave, ...)  des items massifs au sol sont interdits (loots de mobs, générateurs à cobble, ...).
+* Les farms à Withers sont interdites.
+* Rename des mobs afin que ceux-ci ne despawn pas est interdit.
 
-* Les clocks redstone sans intervalle de tick qui laissent apparaître cet intervalle visuellement, sont interdites.
-* Les systèmes redstone amenant à du 0-tick, en tout genre, sont interdits.
-* Les machines volantes sont interdites.
-* Les machines créant du lag, volontairement ou non, sont interdites.
-* Il est interdit de farmer à l’aide d’un véhicule ou dans un véhicule (wagons, bateaux, etc.).
-* Les clocks trop rapides ou les systèmes conséquents et mal optimisés sont interdits.
-* Il est demandé, par souci de simplicité, d’avoir un système ON/OFF sur vos farms redstone.
-* Les clocks redstone non utilisées doivent obligatoirement être en position OFF.
-* Les trieurs d’items ne possédant pas de système permettant de détruire automatiquement les objets (par exemple avec de la lave) pourront être retirés par la modération.
-* La lave doit être placée en bout de ligne afin d’empêcher les items de tourner en rond.
+En cas de doute sur votre farm, votre machine ou votre système, ouvrez un ticket sur le Discord.\
+Toute farm non conforme aux règles du serveur pourra être supprimée sans remboursement ni préavis.
 
-{% hint style="warning" %}
-Si vous avez un doute sur l'utilisation de votre farm, merci de créer un ticket. Une farm étant estimée comme incorrecte pourra se faire supprimer par le staff.
-{% endhint %}
+### Article G : Triche & usebugs
 
-{% hint style="danger" %}
-Des sanctions peuvent être appliquées si ces règles ne sont pas respectées. Les sanctions possibles sont :\
-– Warn\
-– Ban temporaire\
-– Suppression de farm
-{% endhint %}
+* Les usebugs, la duplication (ou tentative de duplication) et toute forme de triche sont strictement interdites sur le serveur.
+* Tout mod ou logiciel externe offrant un avantage sur les autres joueurs est également prohibé.
+* Il est interdit d’utiliser une touche, un poids ou tout autre moyen pour bloquer le clic et ainsi casser, poser des blocs ou utiliser des items de façon automatisée.
+* Être en connaissance d'un bug et ne pas le signaler au staff dans le but d’en profiter entraînera un bannissement définitif du serveur.
 
-### <mark style="color:orange;">Article F : Les Mods autorisés</mark>
+### Article H : AFK
 
-* Tous les mods ne donnant pas d'avantages sur les autres joueurs tels que :
-  * Optifine, Minimap, ReplayMod (Uniquement pour Record)
-  * Badlion / Lunar / Labymod
-    * Il est évident que l'ensemble des mods présents dans ces clients ne sont pas autorisés, veuillez vous référer à la liste des “Mods interdits" ci-dessous ainsi qu'aux "actions interdites" sur le serveur.
-  * Schematica (Sans le mode printer) / Litematica
-  * Toggle Sneak/Sprint
+* Les modérateurs effectuent régulièrement des vérifications d’AFK. Tout refus ou manquement à ces vérifications peut entraîner une sanction, même si vous êtes présent devant votre écran.
+* Il est strictement interdit de contourner le système d’AFK, quelle qu’en soit la méthode. Toute tentative entraînera une lourde sanction.
 
-{% hint style="warning" %}
-Si un mod n'apparaît pas dans cette liste, demandez l'accord d'un Staff en ticket.
-{% endhint %}
+### Article I : Alliances
 
-### <mark style="color:orange;">Article G : Les Mods interdits</mark>
+* Toute alliance entre Chunky visant à faire progresser un joueur dans un classement (niveau du mois, argent, ou tout autre item lié au classement) est strictement interdite. Tout abus sera lourdement sanctionné.
+* Il est également interdit d’utiliser un Chunky tiers pour contourner des limites (hoppers, machines à redstone, joueurs, etc.), y compris via un double compte.
 
-* **Tous les mods donnant un avantage sur les autres joueurs :**
-  * X-Ray / FreeCam
-  * Schematica Printer & Easy Place & copy/paste
-  * FlyMod
-  * AutoClick / AutoMine / AutoPêche / AutoJump / AutoSell / Macros / BindClick / Script / …
-  * AutoTools
+## Partie III : Le chat
 
-{% hint style="warning" %}
-Cette liste n'est pas exhaustive. Si vous avez un doute sur l'utilisation d'un mod, merci de créer un ticket.
-{% endhint %}
+### Article A : Règles générales
 
-### <mark style="color:orange;">Article H : Création et partage de mods</mark>
+* Le chat est un espace d’échange libre et convivial, où chacun doit pouvoir discuter dans le respect et la bonne humeur.
+* Toute forme de harcèlement, de provocation, d’insulte ou de comportement toxique est strictement interdite et entraînera des sanctions lourdes.
 
-Tous les mods créés pour **Minepiece** (tels que les mods _QoL_, etc.) doivent respecter des règles spécifiques afin d’être autorisés lorsqu’ils sont partagés.
+### Article B : Types de messages
 
-Les mods **ne doivent pas** être distribués via des sites tiers, **sauf** par l’intermédiaire des plateformes approuvées suivantes :
+Voici une liste non exhaustive des messages inappropriés sur le serveur :
 
-* **GitHub** (avec le code source rendu public)
-* **CurseForge**
-* **Modrinth**
+* Flood : répétition excessive d’un même caractère (ex. « mdrrrrrrrrrrrrrrr »).
+* Spam : envoi de plusieurs messages à la suite.
+* Incitation au flood ou au spam, y compris lors d’événements type questions/réponses (les réponses doivent se faire en message privé à l’organisateur).
+* Usage excessif de majuscules.
+* Insultes, provocations ou attaques envers d’autres joueurs, communautés ou membres du staff.
+* Langage grossier ou vulgaire.
+* Propos graves : racistes, sexistes, homophobes, transphobes, antisémites, etc.
+* Propos violents ou haineux : incitation à la haine, menaces, appels à la violence, etc.
+* Propos à caractère sexuel : allusions, contenu inapproprié, comportements déplacés, etc.
+* Propos politiques ou religieux extrêmes : débats ou positions incitant au conflit.
+* Propos choquants ou morbides : suicide, automutilation, meurtre, etc.
+* Menaces, harcèlement, humour noir ou divulgation d’informations privées.
+* Critiques publiques du serveur ou du staff.
+* Troll, obscénités ou comportement provocateur.
+* Spoil de contenu ou d’événements.
+* Mendicité : demandes d’items, d’argent ou de prêts.
+* Réaction publique à une sanction.
 
-Les mods **ne doivent pas** :
+Tous ces comportements sont interdits et peuvent entraîner des sanctions immédiates.
 
-* Exiger la création d’un compte utilisateur
-* Collecter, stocker ou transmettre des informations utilisateurs sous quelque forme que ce soit
-* Collecter, stocker ou transmettre des données liées aux joueurs
+### Article C : Plateformes
 
-Les mods ne peuvent être partagés **uniquement** via des liens directs provenant des plateformes approuvées mentionnées ci-dessus (GitHub, CurseForge ou Modrinth).
+Peu importe leur emplacement, les messages peuvent être sanctionnés, dans :
 
-Les mods ne doivent **en aucun cas** offrir un avantage déloyal (voir **II -** **Article F**).
+* Chat public.
+* Chat du Chunky.
+* Messages privés.
+* Livres.
+* Pancartes.
+* Utilisation abusive de /nick.
+* Dénomination d’un familier ou d’un mob.
+* Dénomination d'un Chunky ou d'un warp.
+* …
 
-> ⚠️ **Avertissement**\
-> Malgré la mise en place de ces règles, restez toujours prudents quant à ce que vous utilisez et téléchargez en ligne. Ces règles existent avant tout pour protéger nos joueurs autant que possible.
+### Article D : Publicité
 
-Si un mod ne respecte pas ces règles et qu’il est partagé entre plusieurs joueurs, **tous les joueurs impliqués seront sévèrement sanctionnés**, et tout utilisateur utilisant ce mod se verra **interdire définitivement l’accès au serveur** tant que le mod n’aura pas été supprimé.
-
-Nous nous réservons le droit d’autoriser ou de refuser **tout mod**, sans exception.
-
-En cas de doute quant à la conformité de votre mod avec ces règles, n’hésitez pas à créer un ticket sur notre Discord : 👉 **discord.gg/minepiece**
-
-### <mark style="color:orange;">Article I : Les Doubles-Comptes</mark>
-
-* Les doubles-comptes sont limités à 1 par utilisateur.
-* Les doubles comptes ne sont pas acceptés dans les classements, tous évènements confondus, ainsi que dans le vote.
-* Il n’est pas possible de récupérer les différentes récompenses des évents grâce à vos doubles comptes ou de farmer grâce à celui-ci (calendrier, récompenses de jobs…).
-* Jouer sur un double compte alors que son compte principal est banni, ou inversement, est interdit. En cas de non-respect de cette règle, le temps de la sanction initiale sera doublé et plus si récidives.
-* Il est interdit de voter avec deux comptes différents pour le serveur.
-* L’utilisation d’un double compte est dans l’unique but de recommencer une partie ou pour AFK, mais il est interdit de boost son compte principal (Items / Argent / autres).
-  * Si vous souhaitez recommencer votre partie, merci de faire un ticket afin que les démarches adéquates soient respectées.
-
-{% hint style="info" %}
-Si plusieurs personnes physiques sont sur la même IP, merci de le signaler à un membre de l'équipe de MinePiece en ticket.
-{% endhint %}
-
-### <mark style="color:orange;">Article J : L'AFK</mark>
-
-* **Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, tout manquement à celles-ci sont passibles de sanctions, même en étant physiquement présent devant l’écran.**
-* Il est aussi interdit de contourner l'anti-AFK de quelconque manière, sous peine de sanctions.
-* Le farming/afk à l’aide de véhicules (bateaux, minecart, etc.) est interdit.
-
-### <mark style="color:orange;">Article K : Triche et Usebugs</mark>
-
-* Les usebugs, la duplication (ainsi que la tentative de duplication) et la triche sous toutes ses formes sont prohibés sur le serveur.
-  * Est compris dans usebugs le fait d'abuser de choses dans le but d'augmenter ses stats, contourner les limites quelconques etc...
-* Tous les mods ou logiciels externes donnant un avantage par rapport aux autres joueurs sont interdits.
-* **De plus, l'utilisation d'une touche autre que le clic, d'un moyen, d’une méthode ou d’un poids permettant de le bloquer pour casser et/ou poser des blocs, et utiliser des items, est totalement interdite.**
-* Etre en connaissance d’un bug majeur sur le serveur et ne pas en informer la modération dans le but d’abuser de celui-ci entrainera un bannissement définitif du serveur.
-
-## <mark style="color:orange;">Partie III : Le Chat</mark>
-
-### <mark style="color:orange;">Article A : Les règles générales</mark>
-
-* Le chat est un espace de libre échange où les discussions s'effectuent dans le respect et avec de la courtoisie.
-* Toute forme d'harcèlement est interdite et entraînera de très lourdes sanctions.
-
-### <mark style="color:orange;">Article B : Les types de messages</mark>
-
-Voici une liste non exhaustive des messages inappropriés sur le serveur, qui pourront entraîner, à l'appréciation du staff, des sanctions :
-
-* Provocation, insultes envers une personne ou une communauté.
-* Propos graves : racisme, misogynie, homophobie, transphobie, politique.
-* Propos tendancieux (politiques, religieux, conflits géopolitiques, à caractère sexuel…)
-* Troll, Obscénités
-* Spam (plusieurs messages à la suite)
-* Flood (répétitions d'un même caractère : "mdrrrrrrrrrrrr")
-* La mendicité (demander des items, prêts d'items, d'argent, etc.).
-* Réaction aux sanctions
-* Il est interdit d'usurper une identité.
-* Le spoil est prohibé
-* L’incitation au spam/flood est également prohibée sur le serveur (cela inclut des évènements de types questions/réponses dans le chat. Les réponses doivent donc être effectuées dans les messages privés de l’organisateur)
-* Les menaces, le harcèlement, l’humour noir ainsi que la divulgation d'informations privées sont interdits sur le serveur.
-* La diffamation
-
-### <mark style="color:orange;">Article C : Les différentes plateformes</mark>
-
-* Où qu'ils soient les messages sont sanctionnables :
-  * Chat Public
-  * Chat d'île
-  * Sur des livres
-  * Messages Privés
-  * Panneaux
-  * Tout endroit en lien direct avec MinePiece
-  * Utilisation du /nick abusive
-  * Rename d’un pet ou d’un mob
-  * ...
-
-### <mark style="color:orange;">Article D : La publicité</mark>
-
-* La publicité pour des serveurs autres que MinePiece est interdite.
-* Vous ne devez pas citer de noms de serveurs autres que ceux de Rivrs.
-* Toute publicité pour une autre plateforme/jeu/etc est également interdite sur le serveur.
-* La publicité de son propre contenu (vidéos Youtube, chaine Twitch, etc) est interdite sur le serveur, hormis si vous disposez du grade Youtubeur, Streameur ou Partenaire.
+* La publicité pour des serveurs autres que ChunkLock est strictement interdite.
+* Vous ne devez pas mentionner de noms de serveurs autres que ceux de Rivrs.
+* Toute publicité pour une autre plateforme, jeu ou service est également interdite.
+* La promotion de votre contenu personnel (YouTube, Twitch, etc.) est interdite, sauf si vous possédez le grade Youtubeur, Streameur ou Partenaire.
 
 ***
 
-* Pour la publicité en jeu `/pub` (warps, shops, ventes, events, etc.), vous devez obligatoirement utiliser la commande adéquate en fonction du type de recherche.
-* De même, si vous faites de la pub pour votre ile, merci de respecter le temps de 10 minutes par ile/warp.
+* Pour la publicité en jeu `/pub` (warps, shops, ventes, events, etc.), vous devez obligatoirement utiliser la commande adéquate en fonction du type de recherche.&#x20;
+* De même, si vous faites de la pub pour votre chunky, merci de respecter le temps de 10 minutes par chunky/warp.
 * Merci de ne pas utiliser différents types de `/pub` pour bypass la durée de cooldown.
 
-### <mark style="color:orange;">Article E : Staff non présent</mark>
+### Article E : Staff non présents
 
-* Si vous êtes témoin d'une infraction, n'hésitez pas à prendre un screen.
-* Le screen doit être complet, date, heure, contexte, etc...
-* Tout abus de signalements ou de preuves falsifiées entrainera des sanctions.
+* Si vous êtes témoin d’une infraction, prenez une capture d’écran, un clip ou toute autre preuve utile.
+* Les informations fournies doivent être complètes : date, heure, contexte, etc.
+* Tout abus de signalement ou preuve falsifiée entraînera des sanctions.
 
-En vous connectant sur nos plateformes, nous considérons que vous avez lu et accepté ledit règlement, même en cas de changement de celui-ci.
 
-**Toute sanction sera donnée à l'entière appréciation du staff.**
 
-Si vous souhaitez contester une quelconque sanction, merci de créer un ticket sur le discord. Toute contestation de sanction non recevable entraînera le doublement de celle-ci.\
-Créer un ticket pour contester la sanction d’une autre personne **ne sera pas prise en compte**.
+{% hint style="info" %}
+En vous connectant sur nos plateformes, vous êtes considéré comme ayant lu et accepté le règlement, y compris en cas de modifications ultérieures.
+{% endhint %}
+
+Toute sanction relève de l’entière appréciation du staff.
+
+Pour contester une sanction, ouvrez un ticket sur Discord. Toute contestation non recevable entraînera le doublement de la sanction.\
+Les tickets visant à contester la sanction d’un autre joueur ne seront pas pris en compte.
