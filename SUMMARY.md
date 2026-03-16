@@ -15,20 +15,20 @@
 
 ## 🎮 Gameplay
 
-* [🔔 Général](gameplay/general/)
+* [🔔 Général](gameplay/general/general.md)
   * [🔨 Métier](gameplay/general/jobs.md)
   * [👑 Rangs](gameplay/general/ranks.md)
   * [🎫 Pass de combat](gameplay/general/battle_pass.md)
   * [⚙️ Recettes de craft](gameplay/general/recipes.md)
   * [🎁 Récompenses](gameplay/general/rewards.md)
-* [🏝️ Votre île](gameplay/your_island/)
+* [🏝️ Votre île](gameplay/your_island/your_island.md)
   * [🥕 Cultures](gameplay/your_island/crops.md)
   * [🐮 Élevage](gameplay/your_island/breeds.md)
   * [👷 Ouvrier](gameplay/your_island/workers.md)
   * [🪙 Prestige](gameplay/your_island/prestige.md)
   * [🪨 Générateur](gameplay/your_island/generator.md)
   * [🏅 Classement](gameplay/your_island/ranking.md)
-* [🗺️ Îles aventures](gameplay/adventure/)
+* [🗺️ Îles aventures](gameplay/adventure/adventure.md)
   * [🌈 Plaine de la Tranquilité](gameplay/adventure/plain_of_tranquility.md)
   * [🦫 Vallée du Castor](gameplay/adventure/beaver_valley.md)
   * [💧 Rivière Cachée](gameplay/adventure/hidden_river.md)
