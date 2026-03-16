@@ -24,6 +24,7 @@
 * [🏝️ Votre île](gameplay/your_island/)
   * [🥕 Cultures](gameplay/your_island/crops.md)
   * [🐮 Élevage](gameplay/your_island/breeds.md)
+  * [👷 Ouvrier](gameplay/your_island/workers.md)
   * [🪙 Prestige](gameplay/your_island/prestige.md)
   * [🪨 Générateur](gameplay/your_island/generator.md)
   * [🏅 Classement](gameplay/your_island/ranking.md)
