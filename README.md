@@ -14,8 +14,8 @@ Vous y retrouverez <mark style="color:$primary;">**toutes les fonctionnalités d
 * [<mark style="color:blue;">**Règlement In-Game**</mark>](informations-generales/reglement-in-game.md)
 * [<mark style="color:blue;">**Règlement Discord**</mark>](informations-generales/reglement-discord.md)
 * [<mark style="color:blue;">**Tutoriels**</mark>](informations-generales/tutoriels/)
-  * [**Comment rejoindre ChunkLock ?**](informations-generales/tutoriels/comment-rejoindre-chunklock/)
-  * [**Comment voter pour ChunkLock ?**](informations-generales/tutoriels/comment-voter-pour-chunklock/)
+  * [**Comment rejoindre ChunkLock ?**](informations-generales/tutoriels/comment-rejoindre-chunklock)
+  * [**Comment voter pour ChunkLock ?**](informations-generales/tutoriels/comment-voter-pour-chunklock)
   * [**Commandes de base**](informations-generales/tutoriels/commandes-de-base.md)
 * [<mark style="color:blue;">**Questions Récurrentes**</mark>](informations-generales/questions-recurrentes.md)
 
