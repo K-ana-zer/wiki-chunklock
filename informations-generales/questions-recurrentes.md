@@ -78,10 +78,38 @@ Si au bout de <mark style="color:$primary;">**10 minutes**</mark> la commande co
 
 ### <mark style="color:blue;">Familiers</mark>
 
+**"**<mark style="color:$primary;">**Comment équiper mon Familier ?**</mark>**"**
+
+* Clic droit avec votre familier dans votre main, puis <mark style="color:$primary;">**`/pets`**</mark> pour voir le menu des Familiers.
+
 **"**<mark style="color:$primary;">**Comment améliorer mon Familier ?**</mark>**"**
 
 * Activez votre familier via <mark style="color:$primary;">**`/pets`**</mark>, puis nourrissez-le avec des <mark style="color:$primary;">**bonbons**</mark> pour lui donner de l’expérience.
-* Au-delà du <mark style="color:$primary;">**niveau 10**</mark>, il faudra effectuer une <mark style="color:$primary;">**fusion**</mark> (sauf pour certain familiers).
+* Au-delà du <mark style="color:$primary;">**niveau 10**</mark>, il faudra effectuer une <mark style="color:$primary;">**fusion**</mark> (sauf pour certain familiers), qui nécéssite 3 fois le même pet, tous au niveau 10.
+
+
+### <mark style="color:blue;">Incubateurs & Enclos
+
+**"**<mark style="color:$primary;">**À quoi servent l'incubateur et l'enclos ?**</mark>**"**
+
+*  Un <mark style="color:$primary;">incubateur</mark> permet de faire éclore des œufs d'animaux obtenus dans les différentes mondes aventures. Une fois l'oeuf éclos, vous obtiendrez l'animal correspondant.
+*  Un <mark style="color:$primary;">enclos</mark> permet d'obtenir des ressources en lien avec les animaux qui y sont placés. Ces ressources sont utiles pour les <mark style="color:$primary;">rangs</mark> ou peuvent être revendues au <mark style="color:$primary;">**`/shop`**</mark>.
+
+**"**<mark style="color:$primary;">**Comment fonctionne l'enclos**</mark>**"**
+
+* Après avoir placé <mark style="color:$primary;">l'enclos</mark> à l'endroit souhaité, faites un clic droit pour ouvrir son menu. Vous pouvez ensuite y placer un animal au niveau de la flèche. En réouvrant le menu, vous pourrez retrouver votre animal dans le slot adéquat et y placer la nourriture adéquate pour qu'il puisse produire des ressources. Un menu est disponible afin de fournir des informations sur les nourritures nécessaires pour chaque animal. 
+
+{% hint style="warning" %}
+Si l'animal revient dans l'inventaire, reprenez <mark style="color:$primary;">l'enclos</mark> dans votre inventaire en le vidant au préalable, puis reposez-le.
+{% endhint %}
+
+***
+
+### <mark style="color:blue;">Terre en pot
+
+**"**<mark style="color:$primary;">**Comment utiliser les terres en pot ?**</mark>**"**
+
+* Les <mark style="color:$primary;">terres en pot</mark> s'utilisent en les plaçant au sol, puis en utilisant un <mark style="color:$primary;">arrosoir</mark> pour mouiller la terre. On peut ensuite y placer les <mark style="color:$primary;">graines des différents mondes adventures</mark> puis les laisser pousser.
 
 ***
 
@@ -92,6 +120,7 @@ Si au bout de <mark style="color:$primary;">**10 minutes**</mark> la commande co
 * Les Boss apparaissent lorsque les joueurs du serveur ont <mark style="color:$primary;">vaincu ensemble</mark> un certain nombre d’ennemis sur une île d’aventure. Lorsqu’ils apparaissent, ils spawn à des endroits <mark style="color:$primary;">précis</mark> de l’île et une <mark style="color:$primary;">annonce</mark> est envoyée dans le <mark style="color:$primary;">chat</mark>.
 
 ***
+
 
 ### <mark style="color:blue;">Pêche</mark>
 
